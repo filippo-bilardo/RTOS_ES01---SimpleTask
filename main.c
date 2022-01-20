@@ -15,11 +15,11 @@
 * schede STML476VG Discovery e supporto al kernel FreeRTOS
 * 
 * @author Filippo Bilardo
-* @date 09/10/21 
-* @version 1.0 09/10/21 Versione iniziale 
+* @date 09/10/21
+* @version 1.0 09/10/21 Versione iniziale
 *
 * @section LICENSE
-* Open Source Licensing 
+* Open Source Licensing
 * This program is free software: you can redistribute it and/or modify it under the terms 
 * of the GNU General Public License as published by the Free Software Foundation, either 
 * version 3 of the License, or (at your option) any later version.
